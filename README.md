@@ -4,7 +4,7 @@
 
 ---
 
-# node-js-sample
+# Node & MongoDB && Polygon.io
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
